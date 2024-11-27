@@ -39,8 +39,5 @@ No arquivo **`Main.ts`**, você vai orquestrar o combate entre os dois personage
 - Implementar métodos que simulam um **combate entre personagens**.
 - Criar uma interação dinâmica entre objetos, fazendo o **combate acontecer até a morte de um personagem**.
 
----
 
-## **Exemplo de saída do programa:**  
-Quando o combate terminar, o sistema deve exibir algo como:
 
