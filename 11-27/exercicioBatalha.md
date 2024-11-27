@@ -1,4 +1,5 @@
 Enunciado do Exercício 🎮⚔️
+
 Neste exercício, você irá criar um sistema de combate entre personagens utilizando TypeScript. Vamos praticar conceitos de interfaces, classes e interação entre objetos. Siga os passos abaixo para completar o exercício:
 
 1. Criação da Interface Personagem 🧑‍🦰🧙‍♂️
